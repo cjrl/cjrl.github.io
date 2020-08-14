@@ -1,0 +1,69 @@
+#+setupfile: https://raw.githubusercontent.com/fniessen/org-html-themes/master/setup/theme-readtheorg.setup
+#+Title: Chris Lloyd
+#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil
+#+EXPORT_FILE_NAME: ./index.html
+
+* Christopher J.R. Lloyd's Homepage
+  #+ATTR_HTML: :width 50% :height 50%        
+  [[https://math.virginia.edu/img/people/2019-fall/Lloyd.jpg]]
+  
+** About Me
+   I am a Mathematics PhD student at the University of Virginia
+   studying homotopy theory under the direction of
+   [[http://pi.math.virginia.edu/Faculty/Kuhn/][Professor Nicholas Kuhn]]. In particular, I am interested in the structure of the
+   equivariant stable homotopy Balmer spectrum, and its applications
+   to non-equivariant settings.
+   
+   My CV may be downloaded [[file:chris_lloyd_cv.pdf][here]].
+   
+   Before coming to the University of Virginia I received my B.S. in
+   mathematics with a minor in computer science at the University of Mary
+   Washington, where I was mentored by [[https://doctorh.umwblogs.org/about/][Dr. Randall D. Helmstutler]] and
+   [[http://marshallandrew.net/#home][Dr. Andrew Marshall]].
+   
+   Outside of mathematics, I enjoy the outdoors, and programming.  
+   
+** Contact
+   
+   - Email: [[mailto:cjl8zf@virginia.edu][cjl8zf@virginia.edu]]
+   - Office: [[https://www.google.com/maps/dir//38.0324353,-78.5085429/@38.0323165,-78.5085362,20z][Kerchof Hall 125]]
+   - Github: https://github.com/cjl8zf 
+     
+** Preprints
+   - [[https://arxiv.org/abs/2008.00330][N. J. Kuhn and C. J. R. Lloyd, Chromatic fixed point theory and the balmer spectrum for extraspecial 2-groups.]]
+
+** Engagement 
+*** Directed Reading Program
+    Starting in Fall 2018 I have worked closely with [[http://www.people.virginia.edu/~sm4cw/Welcome.html][Dr. Sara Maloni]]
+    to organize the University of Virginia chapter of the [[https://math.virginia.edu/drp/application/][Directed
+    Reading Program]]. This program pairs advanced undergraduates with
+    graduate student mentors to explore an area of math not typically
+    covered in the undergraduate curriculum. This program is very
+    important to me which I why I have taken on the following roles:
+    - Graduate committee chair
+    - Webmaster 
+    - Mentor
+     
+*** Research Experience for Undergraduate 
+    
+    In the Summer of 2020 I participated as a mentor in the University
+    of Virginia Topology and Geometry REU. I worked under the
+    direction of [[http://www.people.virginia.edu/~jeb2md/][Professor Julie Bergner]] with fellow graduate student
+    [[https://sites.google.com/view/rossakhmechet][Ross Akhmechet]] to assist the undergraduate researchers as they
+    explored the feasibility of a TQFT theory for embedded
+    cobordisms that could detect knottings. 
+    
+*** Teaching Mentor 
+    As a 5th year graduate student I have had the opportunity to teach
+    a variety of classes at the university level, however not so many
+    that I no longer remember what it was like to be a first time
+    instructor. For this reason I was very pleased to accept the
+    invitation from [[https://uva.theopenscholar.com/paul-bourdon][Professor Paul Bourdon]] to be a teaching mentor for
+    a second year graduate student in Fall 2020.
+
+** This Website
+
+   You can view the source of this website [[https://github.com/cjl8zf/cjl8zf.github.io][here]]. It is written in the
+   org mark-up language inside of the Emacs text editor (which I live in).
+   
