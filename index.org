@@ -19,8 +19,9 @@
    
    Before coming to the University of Virginia I received my B.S. in
    mathematics with a minor in computer science at the University of Mary
-   Washington, where I was mentored by [[https://doctorh.umwblogs.org/about/][Dr. Randall D. Helmstutler]] and
-   [[http://marshallandrew.net/#home][Dr. Andrew Marshall]].
+   Washington, where I was mentored by
+   [[https://doctorh.umwblogs.org/about/][Professor Randall D. Helmstutler]] and
+   [[http://marshallandrew.net/#home][Professor Andrew Marshall]].
    
    Outside of mathematics, I enjoy the outdoors, and programming.  
    
@@ -77,4 +78,5 @@
 
    You can view the source of this website [[https://github.com/cjl8zf/cjl8zf.github.io][here]]. It is written in the
    org mark-up language inside of the Emacs text editor (which I live in).
+   
    
