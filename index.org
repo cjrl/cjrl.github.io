@@ -36,7 +36,7 @@
 ** Engagement 
 *** Directed Reading Program
     Starting in Fall 2018 I have worked closely with [[http://www.people.virginia.edu/~sm4cw/Welcome.html][Dr. Sara Maloni]]
-    to organize the University of Virginia chapter of the [[https://math.virginia.edu/drp/application/][Directed
+    to organize the University of Virginia chapter of the [[https://math.virginia.edu/drp/][Directed
     Reading Program]]. This program pairs advanced undergraduates with
     graduate student mentors to explore an area of math not typically
     covered in the undergraduate curriculum. This program is very
