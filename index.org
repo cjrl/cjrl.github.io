@@ -61,7 +61,18 @@
     instructor. For this reason I was very pleased to accept the
     invitation from [[https://uva.theopenscholar.com/paul-bourdon][Professor Paul Bourdon]] to be a teaching mentor for
     a second year graduate student in Fall 2020.
-
+    
+** Teaching
+*** University of Virginia
+  - Fall 2019 :: Instructor on record for an uncoordinated section of Math 1140 --- Financial Mathematics 
+  - Fall 2018 :: Instructor on record for an uncoordinated section of Math 1140 --- Financial Mathematics 
+  - Spring 2018 :: Instructor on record for one section of Math 1220 --- A Survey of Calculus II 
+  - Fall 2017 :: Instructor on record for one section of Math 1210 --- A Survey of Calculus I 
+  - Spring 2017 :: Teaching Assistant for two sections of Math 3250 --- Ordinary Differential Equations 
+  - Fall 2016  :: Teaching Assistant for two sections of Math 3250 ---
+    Ordinary Differential Equations
+*** University of Mary Washington
+  - Spring 2016 :: Teaching Assistant for Math 201 --- Introduction to Discrete Mathematics 
 ** This Website
 
    You can view the source of this website [[https://github.com/cjl8zf/cjl8zf.github.io][here]]. It is written in the
