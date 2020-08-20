@@ -65,10 +65,10 @@
     
 ** Teaching
 *** University of Virginia
-  - Fall 2019 :: Instructor on record for an uncoordinated section of Math 1140 --- Financial Mathematics 
-  - Fall 2018 :: Instructor on record for an uncoordinated section of Math 1140 --- Financial Mathematics 
-  - Spring 2018 :: Instructor on record for one section of Math 1220 --- A Survey of Calculus II 
-  - Fall 2017 :: Instructor on record for one section of Math 1210 --- A Survey of Calculus I 
+  - Fall 2019 :: Instructor of record for an uncoordinated section of Math 1140 --- Financial Mathematics 
+  - Fall 2018 :: Instructor of record for an uncoordinated section of Math 1140 --- Financial Mathematics 
+  - Spring 2018 :: Instructor of record for one section of Math 1220 --- A Survey of Calculus II 
+  - Fall 2017 :: Instructor of record for one section of Math 1210 --- A Survey of Calculus I 
   - Spring 2017 :: Teaching Assistant for two sections of Math 3250 --- Ordinary Differential Equations 
   - Fall 2016  :: Teaching Assistant for two sections of Math 3250 ---
     Ordinary Differential Equations
