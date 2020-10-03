@@ -33,6 +33,10 @@
      
 ** Preprints
    - [[https://arxiv.org/abs/2008.00330][N. J. Kuhn and C. J. R. Lloyd, Chromatic fixed point theory and the balmer spectrum for extraspecial 2-groups.]]
+** Ten Minute Research Summary
+#+BEGIN_EXPORT html
+   <iframe width="640" height="385" src="https://www.youtube.com/embed/yXYueCOpgd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
+#+END_EXPORT
 ** Upcoming Talks
    - 09/24/2020 - [[https://math.virginia.edu/seminars/topology/][University of Virginia Topology Seminar]]
    - 10/19/2020 - [[http://www.math.jhu.edu/~vzakharevich/topology-seminar/][John Hopkins Topology Seminar]]
