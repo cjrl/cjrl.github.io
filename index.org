@@ -38,6 +38,7 @@
    <iframe width="640" height="385" src="https://www.youtube.com/embed/yXYueCOpgd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
 #+END_EXPORT
 ** Upcoming Talks
+   - 11/03/2020 - University of Illinois Urbana-Champaign Homotopy Theory Seminar
    - 11/06/2020 - [[https://www.sas.rochester.edu/mth/news-events/events/topology-seminars.html][Rochester Topology Seminar]]
    - 01/06/2021 - [[https://www.math.northwestern.edu/events/seminars/?group=ToSe][Chicago-Northwestern Topology Seminar]]
 ** Recent Talks
