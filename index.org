@@ -42,7 +42,7 @@
    - 11/06/2020 - [[https://www.sas.rochester.edu/mth/news-events/events/topology-seminars.html][Rochester Topology Seminar]]
    - 01/06/2021 - [[https://www.math.northwestern.edu/events/seminars/?group=ToSe][Chicago-Northwestern Topology Seminar]]
 ** Recent Talks
-   - 10/19/2020 - [[http://www.math.jhu.edu/~vzakharevich/topology-seminar/][John Hopkins Topology Seminar]]
+   - 10/19/2020 - [[http://www.math.jhu.edu/~vzakharevich/topology-seminar/][Johns Hopkins Topology Seminar]]
    - 09/24/2020 - [[https://math.virginia.edu/seminars/topology/][University of Virginia Topology Seminar]]
 ** Engagement 
 *** Directed Reading Program
