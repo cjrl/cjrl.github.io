@@ -5,6 +5,7 @@
 #+OPTIONS: num:nil
 #+EXPORT_FILE_NAME: ./index.html
 #+OPTIONS: html-postamble:nil
+#+OPTIONS: toc:2
 
 * Christopher J.R. Lloyd's Homepage
   #+ATTR_HTML: :width 50% :height 50%        
