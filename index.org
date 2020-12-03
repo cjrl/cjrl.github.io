@@ -41,7 +41,7 @@
    <iframe width="640" height="385" src="https://www.youtube.com/embed/yXYueCOpgd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
 #+END_EXPORT
 ** Upcoming Talks
-   - 12/03/2020 - [[https://math.virginia.edu/seminars/gradsem/][UVA
+   - 12/04/2020 - [[https://math.virginia.edu/seminars/gradsem/][UVA
      Graduate Seminar]] --- Version controlling your thesis with Git
      - A handout for this talk may be downloaded [[https://raw.githubusercontent.com/cjl8zf/uva-grad-sem-git-guide/master/uva_grad_sem_git_guide.pdf][here]].
    - 01/06/2021 - [[https://www.math.northwestern.edu/events/seminars/?group=ToSe][Chicago-Northwestern Topology Seminar]]
