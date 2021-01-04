@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-12-03 Thu 16:15 -->
+<!-- 2021-01-04 Mon 12:58 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Chris Lloyd</title>
@@ -40,7 +40,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -52,7 +52,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -201,50 +201,26 @@
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
 <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -254,36 +230,36 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgaff0f95">Christopher J.R. Lloyd's Homepage</a>
+<li><a href="#org7989b9d">Christopher J.R. Lloyd's Homepage</a>
 <ul>
-<li><a href="#org0612ab2">About Me</a></li>
-<li><a href="#orge896022">Contact</a></li>
-<li><a href="#org1d6a26c">Preprints</a></li>
-<li><a href="#orga7e2c1e">Ten Minute Research Summary</a></li>
-<li><a href="#org3e421fa">Upcoming Talks</a></li>
-<li><a href="#orgdee11a5">Recent Talks</a></li>
-<li><a href="#orgec57cd7">Engagement</a></li>
-<li><a href="#org20c0bfa">Teaching</a></li>
-<li><a href="#orgdb5d829">This Website</a></li>
+<li><a href="#orgbbcffef">About Me</a></li>
+<li><a href="#org033709e">Contact</a></li>
+<li><a href="#org98a6643">Preprints</a></li>
+<li><a href="#org014df60">Ten Minute Research Summary</a></li>
+<li><a href="#org245d741">Upcoming Talks</a></li>
+<li><a href="#org0ce8259">Recent Talks</a></li>
+<li><a href="#org29da9fb">Engagement</a></li>
+<li><a href="#org10a9207">Teaching</a></li>
+<li><a href="#org4f32a12">This Website</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgaff0f95" class="outline-2">
-<h2 id="orgaff0f95">Christopher J.R. Lloyd's Homepage</h2>
-<div class="outline-text-2" id="text-orgaff0f95">
+<div id="outline-container-org7989b9d" class="outline-2">
+<h2 id="org7989b9d">Christopher J.R. Lloyd's Homepage</h2>
+<div class="outline-text-2" id="text-org7989b9d">
 
-<div class="figure">
+<div id="orgc0d8605" class="figure">
 <p><img src="https://math.virginia.edu/img/people/2019-fall/Lloyd.jpg" alt="Lloyd.jpg" width="50%" height="50%" />
 </p>
 </div>
 </div>
 
-<div id="outline-container-org0612ab2" class="outline-3">
-<h3 id="org0612ab2">About Me</h3>
-<div class="outline-text-3" id="text-org0612ab2">
+<div id="outline-container-orgbbcffef" class="outline-3">
+<h3 id="orgbbcffef">About Me</h3>
+<div class="outline-text-3" id="text-orgbbcffef">
 <p>
 I am a Mathematics PhD student at the University of Virginia
 studying homotopy theory under the direction of
@@ -310,9 +286,9 @@ Outside of mathematics, I enjoy the outdoors, and programming.
 </div>
 </div>
 
-<div id="outline-container-orge896022" class="outline-3">
-<h3 id="orge896022">Contact</h3>
-<div class="outline-text-3" id="text-orge896022">
+<div id="outline-container-org033709e" class="outline-3">
+<h3 id="org033709e">Contact</h3>
+<div class="outline-text-3" id="text-org033709e">
 <ul class="org-ul">
 <li>Email: <a href="mailto:cjl8zf@virginia.edu">cjl8zf@virginia.edu</a></li>
 <li>Office: <a href="https://www.google.com/maps/dir//38.0324353,-78.5085429/@38.0323165,-78.5085362,20z">Kerchof Hall 125</a></li>
@@ -321,53 +297,48 @@ Outside of mathematics, I enjoy the outdoors, and programming.
 </div>
 </div>
 
-<div id="outline-container-org1d6a26c" class="outline-3">
-<h3 id="org1d6a26c">Preprints</h3>
-<div class="outline-text-3" id="text-org1d6a26c">
+<div id="outline-container-org98a6643" class="outline-3">
+<h3 id="org98a6643">Preprints</h3>
+<div class="outline-text-3" id="text-org98a6643">
 <ul class="org-ul">
 <li><a href="https://arxiv.org/abs/2008.00330">N. J. Kuhn and C. J. R. Lloyd, Chromatic fixed point theory and the balmer spectrum for extraspecial 2-groups.</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orga7e2c1e" class="outline-3">
-<h3 id="orga7e2c1e">Ten Minute Research Summary</h3>
-<div class="outline-text-3" id="text-orga7e2c1e">
+<div id="outline-container-org014df60" class="outline-3">
+<h3 id="org014df60">Ten Minute Research Summary</h3>
+<div class="outline-text-3" id="text-org014df60">
 <iframe width="640" height="385" src="https://www.youtube.com/embed/yXYueCOpgd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
 </div>
 </div>
-<div id="outline-container-org3e421fa" class="outline-3">
-<h3 id="org3e421fa">Upcoming Talks</h3>
-<div class="outline-text-3" id="text-org3e421fa">
+<div id="outline-container-org245d741" class="outline-3">
+<h3 id="org245d741">Upcoming Talks</h3>
+<div class="outline-text-3" id="text-org245d741">
 <ul class="org-ul">
-<li>12/04/2020 - <a href="https://math.virginia.edu/seminars/gradsem/">UVA
-Graduate Seminar</a> &#x2014; Version controlling your thesis with Git
-<ul class="org-ul">
-<li>A handout for this talk may be downloaded <a href="https://raw.githubusercontent.com/cjl8zf/uva-grad-sem-git-guide/master/uva_grad_sem_git_guide.pdf">here</a>.</li>
-</ul></li>
-<li>01/06/2021 - <a href="https://www.math.northwestern.edu/events/seminars/?group=ToSe">Chicago-Northwestern Topology Seminar</a></li>
+<li>01/05/2021 - <a href="https://www.math.northwestern.edu/events/seminars/?group=ToSe">Chicago-Northwestern Topology Seminar</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgdee11a5" class="outline-3">
-<h3 id="orgdee11a5">Recent Talks</h3>
-<div class="outline-text-3" id="text-orgdee11a5">
+<div id="outline-container-org0ce8259" class="outline-3">
+<h3 id="org0ce8259">Recent Talks</h3>
+<div class="outline-text-3" id="text-org0ce8259">
 <ul class="org-ul">
-<li>11/06/2020 -
-<a href="https://www.sas.rochester.edu/mth/news-events/events/topology-seminars.html">University
-of Rochester Topology Seminar</a></li>
+<li>12/04/2020 - <a href="https://math.virginia.edu/seminars/gradsem/">UVA Graduate Seminar</a> &#x2014; Version controlling your
+thesis with Git (<a href="https://raw.githubusercontent.com/cjl8zf/uva-grad-sem-git-guide/master/uva_grad_sem_git_guide.pdf">handout)</a></li>
+<li>11/06/2020 - <a href="https://www.sas.rochester.edu/mth/news-events/events/topology-seminars.html">University of Rochester Topology Seminar</a></li>
 <li>11/03/2020 - University of Illinois Urbana-Champaign Homotopy Theory Seminar</li>
 <li>10/19/2020 - <a href="http://www.math.jhu.edu/~vzakharevich/topology-seminar/">Johns Hopkins Topology Seminar</a></li>
 <li>09/24/2020 - <a href="https://math.virginia.edu/seminars/topology/">University of Virginia Topology Seminar</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgec57cd7" class="outline-3">
-<h3 id="orgec57cd7">Engagement</h3>
-<div class="outline-text-3" id="text-orgec57cd7">
+<div id="outline-container-org29da9fb" class="outline-3">
+<h3 id="org29da9fb">Engagement</h3>
+<div class="outline-text-3" id="text-org29da9fb">
 </div>
-<div id="outline-container-orgab5f8af" class="outline-4">
-<h4 id="orgab5f8af">Directed Reading Program</h4>
-<div class="outline-text-4" id="text-orgab5f8af">
+<div id="outline-container-org79765b8" class="outline-4">
+<h4 id="org79765b8">Directed Reading Program</h4>
+<div class="outline-text-4" id="text-org79765b8">
 <p>
 Starting in Fall 2018 I have worked closely with <a href="http://www.people.virginia.edu/~sm4cw/Welcome.html">Dr. Sara Maloni</a>
 to organize the University of Virginia chapter of the <a href="https://math.virginia.edu/drp/">Directed
@@ -384,9 +355,9 @@ important to me which is why I have taken on the following roles:
 </div>
 </div>
 
-<div id="outline-container-org5742447" class="outline-4">
-<h4 id="org5742447">Research Experience for Undergraduates</h4>
-<div class="outline-text-4" id="text-org5742447">
+<div id="outline-container-org26e1ebf" class="outline-4">
+<h4 id="org26e1ebf">Research Experience for Undergraduates</h4>
+<div class="outline-text-4" id="text-org26e1ebf">
 <p>
 In the Summer of 2020 I participated as a mentor in the University
 of Virginia Topology and Geometry REU. I worked under the
@@ -398,9 +369,9 @@ cobordisms that could detect knottings.
 </div>
 </div>
 
-<div id="outline-container-orge45435e" class="outline-4">
-<h4 id="orge45435e">Teaching Mentor</h4>
-<div class="outline-text-4" id="text-orge45435e">
+<div id="outline-container-org80a6ab5" class="outline-4">
+<h4 id="org80a6ab5">Teaching Mentor</h4>
+<div class="outline-text-4" id="text-org80a6ab5">
 <p>
 As a 5th year graduate student I have had the opportunity to teach
 a variety of classes at the university level, however not so many
@@ -413,13 +384,13 @@ a second year graduate student in Fall 2020.
 </div>
 </div>
 
-<div id="outline-container-org20c0bfa" class="outline-3">
-<h3 id="org20c0bfa">Teaching</h3>
-<div class="outline-text-3" id="text-org20c0bfa">
+<div id="outline-container-org10a9207" class="outline-3">
+<h3 id="org10a9207">Teaching</h3>
+<div class="outline-text-3" id="text-org10a9207">
 </div>
-<div id="outline-container-orgc403728" class="outline-4">
-<h4 id="orgc403728">University of Virginia</h4>
-<div class="outline-text-4" id="text-orgc403728">
+<div id="outline-container-orgb2e7927" class="outline-4">
+<h4 id="orgb2e7927">University of Virginia</h4>
+<div class="outline-text-4" id="text-orgb2e7927">
 <dl class="org-dl">
 <dt>Fall 2019</dt><dd>Instructor of record for an uncoordinated section of Math 1140 &#x2014; Financial Mathematics</dd>
 <dt>Fall 2018</dt><dd>Instructor of record for an uncoordinated section of Math 1140 &#x2014; Financial Mathematics</dd>
@@ -431,18 +402,18 @@ Ordinary Differential Equations</dd>
 </dl>
 </div>
 </div>
-<div id="outline-container-orge5b2e79" class="outline-4">
-<h4 id="orge5b2e79">University of Mary Washington</h4>
-<div class="outline-text-4" id="text-orge5b2e79">
+<div id="outline-container-orgddf6991" class="outline-4">
+<h4 id="orgddf6991">University of Mary Washington</h4>
+<div class="outline-text-4" id="text-orgddf6991">
 <dl class="org-dl">
 <dt>Spring 2016</dt><dd>Teaching Assistant for Math 201 &#x2014; Introduction to Discrete Mathematics</dd>
 </dl>
 </div>
 </div>
 </div>
-<div id="outline-container-orgdb5d829" class="outline-3">
-<h3 id="orgdb5d829">This Website</h3>
-<div class="outline-text-3" id="text-orgdb5d829">
+<div id="outline-container-org4f32a12" class="outline-3">
+<h3 id="org4f32a12">This Website</h3>
+<div class="outline-text-3" id="text-org4f32a12">
 <p>
 You can view the source of this website <a href="https://github.com/cjl8zf/cjl8zf.github.io">here</a>. It is written in the
 org mark-up language inside of the Emacs text editor (which I live in).
