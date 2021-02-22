@@ -15,7 +15,7 @@
    I am a Mathematics PhD student at the University of Virginia
    studying homotopy theory under the direction of
    [[http://pi.math.virginia.edu/Faculty/Kuhn/][Professor Nicholas Kuhn]]. In particular, I am interested in the structure of the
-   equivariant stable homotopy Balmer spectrum, and its applications
+   equivariant stable homotopy Balmer spectrum and its applications
    to non-equivariant settings.
    
    My CV may be downloaded [[file:chris_lloyd_cv.pdf][here]].
