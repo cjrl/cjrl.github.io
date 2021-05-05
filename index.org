@@ -12,11 +12,12 @@
   [[https://math.virginia.edu/img/people/2019-fall/Lloyd.jpg]]
   
 ** About Me
-   I am a Mathematics PhD student at the University of Virginia
-   studying homotopy theory under the direction of
-   [[http://pi.math.virginia.edu/Faculty/Kuhn/][Professor Nicholas Kuhn]]. In particular, I am interested in the structure of the
-   equivariant stable homotopy Balmer spectrum and its applications
-   to non-equivariant settings.
+   I am a graduating Mathematics Ph.D. from the University of
+   Virginia. I studied homotopy theory under the direction of
+   [[http://pi.math.virginia.edu/Faculty/Kuhn/][Professor Nicholas Kuhn]]. In particular, my research concerned the
+   structure of the equivariant stable homotopy Balmer spectrum and
+   its applications to non-equivariant settings. My dissertation is
+   titled [[https://doi.org/10.18130/3h64-wv15][Applications of Chromatic Fixed Point Theory.]]
    
    My CV may be downloaded [[file:chris_lloyd_cv.pdf][here]].
    
@@ -27,7 +28,7 @@
    [[http://marshallandrew.net/#home][Professor Andrew Marshall]].
    
    Outside of mathematics, I enjoy the outdoors, and programming.  
-  
+    
 ** Contact
    
    - Email: [[mailto:cjl8zf@virginia.edu][cjl8zf@virginia.edu]]
@@ -51,7 +52,7 @@
    - 09/24/2020 - [[https://math.virginia.edu/seminars/topology/][University of Virginia Topology Seminar]]
 ** Engagement 
 *** Directed Reading Program
-    Starting in Fall 2018 I have worked closely with [[http://www.people.virginia.edu/~sm4cw/Welcome.html][Dr. Sara Maloni]]
+    Starting in Fall 2018 I have worked closely with [[http://www.people.virginia.edu/~sm4cw/Welcome.html][Professor. Sara Maloni]]
     to organize the University of Virginia chapter of the [[https://math.virginia.edu/drp/][Directed
     Reading Program]]. This program pairs advanced undergraduates with
     graduate student mentors to explore an area of math not typically
