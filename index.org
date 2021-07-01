@@ -14,7 +14,7 @@
 ** About Me
    I am a graduating Mathematics Ph.D. from the University of
    Virginia. I studied homotopy theory under the direction of
-   [[http://pi.math.virginia.edu/Faculty/Kuhn/][Professor Nicholas Kuhn]]. In particular, my research concerned the
+   [[https://uva.theopenscholar.com/nick-kuhn][Professor Nicholas Kuhn]]. In particular, my research concerned the
    structure of the equivariant stable homotopy Balmer spectrum and
    its applications to non-equivariant settings. My dissertation is
    titled [[https://doi.org/10.18130/3h64-wv15][Applications of Chromatic Fixed Point Theory.]]
@@ -52,7 +52,7 @@
    - 09/24/2020 - [[https://math.virginia.edu/seminars/topology/][University of Virginia Topology Seminar]]
 ** Engagement 
 *** Directed Reading Program
-    Starting in Fall 2018 I have worked closely with [[http://www.people.virginia.edu/~sm4cw/Welcome.html][Professor. Sara Maloni]]
+    Starting in Fall 2018 I have worked closely with [[https://sites.google.com/view/sara-maloni][Professor Sara Maloni]]
     to organize the University of Virginia chapter of the [[https://math.virginia.edu/drp/][Directed
     Reading Program]]. This program pairs advanced undergraduates with
     graduate student mentors to explore an area of math not typically
@@ -66,7 +66,7 @@
     
     In the Summer of 2020 I participated as a mentor in the University
     of Virginia Topology and Geometry REU. I worked under the
-    direction of [[http://www.people.virginia.edu/~jeb2md/][Professor Julie Bergner]] with fellow graduate student
+    direction of [[https://sites.google.com/view/julie-bergner/][Professor Julie Bergner]] with fellow graduate student
     [[https://sites.google.com/view/rossakhmechet][Ross Akhmechet]] to assist the undergraduate researchers as they
     explored the feasibility of a TQFT theory for embedded
     cobordisms that could detect knottings. 
