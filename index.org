@@ -48,7 +48,7 @@
      thesis with Git ([[https://raw.githubusercontent.com/cjl8zf/uva-grad-sem-git-guide/master/uva_grad_sem_git_guide.pdf][handout)]]
    - 11/06/2020 - [[https://www.sas.rochester.edu/mth/news-events/events/topology-seminars.html][University of Rochester Topology Seminar]]
    - 11/03/2020 - University of Illinois Urbana-Champaign Homotopy Theory Seminar
-   - 10/19/2020 - [[http://www.math.jhu.edu/~vzakharevich/topology-seminar/][Johns Hopkins Topology Seminar]]
+   - 10/19/2020 - [[https://math.jhu.edu/~vzakhar2/topology-seminar/][Johns Hopkins Topology Seminar]]
    - 09/24/2020 - [[https://math.virginia.edu/seminars/topology/][University of Virginia Topology Seminar]]
 ** Engagement 
 *** Directed Reading Program
