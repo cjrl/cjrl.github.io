@@ -12,12 +12,17 @@
   [[https://math.virginia.edu/img/people/2019-fall/Lloyd.jpg]]
   
 ** About Me
-   I am a graduating Mathematics Ph.D. from the University of
-   Virginia. I studied homotopy theory under the direction of
-   [[https://uva.theopenscholar.com/nick-kuhn][Professor Nicholas Kuhn]]. In particular, my research concerned the
-   structure of the equivariant stable homotopy Balmer spectrum and
-   its applications to non-equivariant settings. My dissertation is
-   titled [[https://doi.org/10.18130/3h64-wv15][Applications of Chromatic Fixed Point Theory.]]
+
+   I am a Data Science Fellow working for the [[https://www.pandemicoversight.gov/][Pandemic Response
+   Accountability Committee (PRAC)]]. 
+   
+   Before becoming a Data Scientist. I graduated with Mathematics
+   Ph.D. from the University of Virginia in Spring 2021. There, I
+   studied homotopy theory under the direction of [[https://uva.theopenscholar.com/nick-kuhn][Professor Nicholas
+   Kuhn]]. In particular, my research concerned the structure of the
+   equivariant stable homotopy Balmer spectrum and its applications to
+   non-equivariant settings. My dissertation is titled [[https://doi.org/10.18130/3h64-wv15][Applications of
+   Chromatic Fixed Point Theory.]]
    
    My CV may be downloaded [[file:chris_lloyd_cv.pdf][here]].
    
@@ -35,7 +40,9 @@
    - Office: [[https://www.google.com/maps/dir//38.0324353,-78.5085429/@38.0323165,-78.5085362,20z][Kerchof Hall 125]]
    - Github: https://github.com/cjl8zf 
      
-** Preprints
+** Preprints 
+   - [[https://arxiv.org/abs/2111.08812][N. J. Kuhn and
+     C. J. R. Lloyd, Computing the Morava K-theory of real Grassmanians using chromatic fixed point theory]]
    - [[https://arxiv.org/abs/2008.00330][N. J. Kuhn and C. J. R. Lloyd, Chromatic fixed point theory and the balmer spectrum for extraspecial 2-groups.]]
 ** Ten Minute Research Summary
 #+BEGIN_EXPORT html
