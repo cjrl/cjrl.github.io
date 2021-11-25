@@ -1,4 +1,4 @@
-yy#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 #+Title: Chris Lloyd
 #+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
