@@ -1,4 +1,4 @@
-#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+yy#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 #+Title: Chris Lloyd
 #+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
@@ -13,16 +13,15 @@
   
 ** About Me
 
-   I am a Data Science Fellow working for the [[https://www.pandemicoversight.gov/][Pandemic Response
-   Accountability Committee (PRAC)]]. 
+   I am a Mathematician at the Federal Aviation Administration.
    
-   Before becoming a Data Scientist. I graduated with Mathematics
-   Ph.D. from the University of Virginia in Spring 2021. There, I
-   studied homotopy theory under the direction of [[https://uva.theopenscholar.com/nick-kuhn][Professor Nicholas
-   Kuhn]]. In particular, my research concerned the structure of the
-   equivariant stable homotopy Balmer spectrum and its applications to
-   non-equivariant settings. My dissertation is titled [[https://doi.org/10.18130/3h64-wv15][Applications of
-   Chromatic Fixed Point Theory.]]
+   I graduated with Mathematics Ph.D. from the University of Virginia
+   in Spring 2021. There, I studied homotopy theory under the
+   direction of [[https://uva.theopenscholar.com/nick-kuhn][Professor Nicholas Kuhn]]. In particular, my research
+   concerned the structure of the equivariant stable homotopy Balmer
+   spectrum and its applications to non-equivariant settings. My
+   dissertation is titled [[https://doi.org/10.18130/3h64-wv15][Applications of Chromatic Fixed Point
+   Theory.]]
    
    My CV may be downloaded [[file:chris_lloyd_cv.pdf][here]].
    
