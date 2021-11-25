@@ -13,9 +13,9 @@ yy#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.s
   
 ** About Me
 
-   I am a Mathematician at the Federal Aviation Administration.
+   I am a Mathematician at the [[https://www.faa.gov/][Federal Aviation Administration]].
    
-   I graduated with Mathematics Ph.D. from the University of Virginia
+   I graduated with my Mathematics Ph.D. from the University of Virginia
    in Spring 2021. There, I studied homotopy theory under the
    direction of [[https://uva.theopenscholar.com/nick-kuhn][Professor Nicholas Kuhn]]. In particular, my research
    concerned the structure of the equivariant stable homotopy Balmer
