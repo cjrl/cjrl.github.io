@@ -36,13 +36,15 @@
 ** Contact
    
    - Email: [[mailto:cjl8zf@virginia.edu][cjl8zf@virginia.edu]]
-   - Office: [[https://www.google.com/maps/dir//38.0324353,-78.5085429/@38.0323165,-78.5085362,20z][Kerchof Hall 125]]
    - Github: https://github.com/cjl8zf 
      
-** Preprints 
+** Papers 
+   - [[https://arxiv.org/abs/2008.00330][N. J. Kuhn and
+     C. J. R. Lloyd, Chromatic fixed point theory and the balmer
+     spectrum for extraspecial 2-groups, American Journal of Mathematics, to appear.]]
    - [[https://arxiv.org/abs/2111.08812][N. J. Kuhn and
-     C. J. R. Lloyd, Computing the Morava K-theory of real Grassmanians using chromatic fixed point theory]]
-   - [[https://arxiv.org/abs/2008.00330][N. J. Kuhn and C. J. R. Lloyd, Chromatic fixed point theory and the balmer spectrum for extraspecial 2-groups.]]
+     C. J. R. Lloyd, Computing the Morava K-theory of real
+     Grassmanians using chromatic fixed point theory, Algebraic and Geometric Topology, to appear.]]
 ** Ten Minute Research Summary
 #+BEGIN_EXPORT html
    <iframe width="640" height="385" src="https://www.youtube.com/embed/yXYueCOpgd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>

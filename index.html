@@ -3,196 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-11-24 Wed 20:32 -->
+<!-- 2023-03-01 Wed 20:13 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Chris Lloyd</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Chris Lloyd" />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
-  .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
-  .tag    { background-color: #eee; font-family: monospace;
-            padding: 2px; font-size: 80%; font-weight: normal; }
-  .timestamp { color: #bebebe; }
-  .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
-  .underline { text-decoration: underline; }
-  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
-  p.verse { margin-left: 3%; }
-  pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
-    padding: 8pt;
-    font-family: monospace;
-    overflow: auto;
-    margin: 1.2em;
-  }
-  pre.src {
-    position: relative;
-    overflow: auto;
-    padding-top: 1.2em;
-  }
-  pre.src:before {
-    display: none;
-    position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
-    padding: 3px;
-    border: 1px solid black;
-  }
-  pre.src:hover:before { display: inline; margin-top: 14px;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
-  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-hledger:before { content: 'hledger'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
-
-  table { border-collapse:collapse; }
-  caption.t-above { caption-side: top; }
-  caption.t-bottom { caption-side: bottom; }
-  td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
-  dt { font-weight: bold; }
-  .footpara { display: inline; }
-  .footdef  { margin-bottom: 1em; }
-  .figure { padding: 1em; }
-  .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
-  .inlinetask {
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 10px;
-    background: #ffffcc;
-  }
-  #org-div-home-and-up
-   { text-align: right; font-size: 70%; white-space: nowrap; }
-  textarea { overflow-x: auto; }
-  .linenr { font-size: smaller }
-  .code-highlighted { background-color: #ffff00; }
-  .org-info-js_info-navigation { border-style: none; }
-  #org-info-js_console-label
-    { font-size: 10px; font-weight: bold; white-space: nowrap; }
-  .org-info-js_search-highlight
-    { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
-  /*]]>*/-->
-</style>
+<meta name="author" content="Chrstopher Lloyd" />
 <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
 <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -217,6 +33,7 @@
        if(null != target) {
          elem.classList.remove("code-highlighted");
          target.classList.remove("code-highlighted");
+       }
      }
     /*]]>*///-->
 // @license-end
@@ -229,35 +46,35 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org9e097d7">Christopher J.R. Lloyd's Homepage</a>
+<li><a href="#org41821f6">Christopher J.R. Lloyd's Homepage</a>
 <ul>
-<li><a href="#org49e5281">About Me</a></li>
-<li><a href="#org033c217">Contact</a></li>
-<li><a href="#org7569b83">Preprints</a></li>
-<li><a href="#org3ada793">Ten Minute Research Summary</a></li>
-<li><a href="#org4b83e26">Recent Talks</a></li>
-<li><a href="#org9840d11">Engagement</a></li>
-<li><a href="#orgaa4771d">Teaching</a></li>
-<li><a href="#org1d985db">This Website</a></li>
+<li><a href="#orgc310615">About Me</a></li>
+<li><a href="#org699640c">Contact</a></li>
+<li><a href="#orgf1645da">Papers</a></li>
+<li><a href="#org53598f9">Ten Minute Research Summary</a></li>
+<li><a href="#org2f9d0a0">Recent Talks</a></li>
+<li><a href="#org23adbef">Engagement</a></li>
+<li><a href="#orgd632e16">Teaching</a></li>
+<li><a href="#org4b28bac">This Website</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org9e097d7" class="outline-2">
-<h2 id="org9e097d7">Christopher J.R. Lloyd's Homepage</h2>
-<div class="outline-text-2" id="text-org9e097d7">
+<div id="outline-container-org41821f6" class="outline-2">
+<h2 id="org41821f6">Christopher J.R. Lloyd's Homepage</h2>
+<div class="outline-text-2" id="text-org41821f6">
 
-<div id="org85737e7" class="figure">
+<div id="org7c226aa" class="figure">
 <p><img src="https://math.virginia.edu/img/people/2019-fall/Lloyd.jpg" alt="Lloyd.jpg" width="50%" height="50%" />
 </p>
 </div>
 </div>
 
-<div id="outline-container-org49e5281" class="outline-3">
-<h3 id="org49e5281">About Me</h3>
-<div class="outline-text-3" id="text-org49e5281">
+<div id="outline-container-orgc310615" class="outline-3">
+<h3 id="orgc310615">About Me</h3>
+<div class="outline-text-3" id="text-orgc310615">
 <p>
 I am a Mathematician at the <a href="https://www.faa.gov/">Federal Aviation Administration</a>.
 </p>
@@ -290,36 +107,38 @@ Outside of mathematics, I enjoy the outdoors, and programming.
 </div>
 </div>
 
-<div id="outline-container-org033c217" class="outline-3">
-<h3 id="org033c217">Contact</h3>
-<div class="outline-text-3" id="text-org033c217">
+<div id="outline-container-org699640c" class="outline-3">
+<h3 id="org699640c">Contact</h3>
+<div class="outline-text-3" id="text-org699640c">
 <ul class="org-ul">
 <li>Email: <a href="mailto:cjl8zf@virginia.edu">cjl8zf@virginia.edu</a></li>
-<li>Office: <a href="https://www.google.com/maps/dir//38.0324353,-78.5085429/@38.0323165,-78.5085362,20z">Kerchof Hall 125</a></li>
 <li>Github: <a href="https://github.com/cjl8zf">https://github.com/cjl8zf</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org7569b83" class="outline-3">
-<h3 id="org7569b83">Preprints</h3>
-<div class="outline-text-3" id="text-org7569b83">
+<div id="outline-container-orgf1645da" class="outline-3">
+<h3 id="orgf1645da">Papers</h3>
+<div class="outline-text-3" id="text-orgf1645da">
 <ul class="org-ul">
+<li><a href="https://arxiv.org/abs/2008.00330">N. J. Kuhn and
+C. J. R. Lloyd, Chromatic fixed point theory and the balmer
+spectrum for extraspecial 2-groups, American Journal of Mathematics, to appear.</a></li>
 <li><a href="https://arxiv.org/abs/2111.08812">N. J. Kuhn and
-C. J. R. Lloyd, Computing the Morava K-theory of real Grassmanians using chromatic fixed point theory</a></li>
-<li><a href="https://arxiv.org/abs/2008.00330">N. J. Kuhn and C. J. R. Lloyd, Chromatic fixed point theory and the balmer spectrum for extraspecial 2-groups.</a></li>
+C. J. R. Lloyd, Computing the Morava K-theory of real
+Grassmanians using chromatic fixed point theory, Algebraic and Geometric Topology, to appear.</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3ada793" class="outline-3">
-<h3 id="org3ada793">Ten Minute Research Summary</h3>
-<div class="outline-text-3" id="text-org3ada793">
+<div id="outline-container-org53598f9" class="outline-3">
+<h3 id="org53598f9">Ten Minute Research Summary</h3>
+<div class="outline-text-3" id="text-org53598f9">
 <iframe width="640" height="385" src="https://www.youtube.com/embed/yXYueCOpgd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
 </div>
 </div>
-<div id="outline-container-org4b83e26" class="outline-3">
-<h3 id="org4b83e26">Recent Talks</h3>
-<div class="outline-text-3" id="text-org4b83e26">
+<div id="outline-container-org2f9d0a0" class="outline-3">
+<h3 id="org2f9d0a0">Recent Talks</h3>
+<div class="outline-text-3" id="text-org2f9d0a0">
 <ul class="org-ul">
 <li>08/09/2021 - <a href="https://folk.ntnu.no/drewkh/conf.html">Transchromatic homotopy online conference</a></li>
 <li>01/05/2021 - <a href="https://www.math.northwestern.edu/events/seminars/?group=ToSe">Chicago-Northwestern Topology Seminar</a></li>
@@ -332,13 +151,13 @@ thesis with Git (<a href="https://raw.githubusercontent.com/cjl8zf/uva-grad-sem-
 </ul>
 </div>
 </div>
-<div id="outline-container-org9840d11" class="outline-3">
-<h3 id="org9840d11">Engagement</h3>
-<div class="outline-text-3" id="text-org9840d11">
+<div id="outline-container-org23adbef" class="outline-3">
+<h3 id="org23adbef">Engagement</h3>
+<div class="outline-text-3" id="text-org23adbef">
 </div>
-<div id="outline-container-orge62da4a" class="outline-4">
-<h4 id="orge62da4a">Directed Reading Program</h4>
-<div class="outline-text-4" id="text-orge62da4a">
+<div id="outline-container-org192306e" class="outline-4">
+<h4 id="org192306e">Directed Reading Program</h4>
+<div class="outline-text-4" id="text-org192306e">
 <p>
 Starting in Fall 2018 I have worked closely with <a href="https://sites.google.com/view/sara-maloni">Professor Sara Maloni</a>
 to organize the University of Virginia chapter of the <a href="https://math.virginia.edu/drp/">Directed
@@ -355,9 +174,9 @@ important to me which is why I have taken on the following roles:
 </div>
 </div>
 
-<div id="outline-container-org2ced446" class="outline-4">
-<h4 id="org2ced446">Research Experience for Undergraduates</h4>
-<div class="outline-text-4" id="text-org2ced446">
+<div id="outline-container-orga509d5c" class="outline-4">
+<h4 id="orga509d5c">Research Experience for Undergraduates</h4>
+<div class="outline-text-4" id="text-orga509d5c">
 <p>
 In the Summer of 2020 I participated as a mentor in the University
 of Virginia Topology and Geometry REU. I worked under the
@@ -369,9 +188,9 @@ cobordisms that could detect knottings.
 </div>
 </div>
 
-<div id="outline-container-org3943f68" class="outline-4">
-<h4 id="org3943f68">Teaching Mentor</h4>
-<div class="outline-text-4" id="text-org3943f68">
+<div id="outline-container-org3aa3612" class="outline-4">
+<h4 id="org3aa3612">Teaching Mentor</h4>
+<div class="outline-text-4" id="text-org3aa3612">
 <p>
 As a 5th year graduate student I have had the opportunity to teach
 a variety of classes at the university level, however not so many
@@ -384,13 +203,13 @@ a second year graduate student in Fall 2020.
 </div>
 </div>
 
-<div id="outline-container-orgaa4771d" class="outline-3">
-<h3 id="orgaa4771d">Teaching</h3>
-<div class="outline-text-3" id="text-orgaa4771d">
+<div id="outline-container-orgd632e16" class="outline-3">
+<h3 id="orgd632e16">Teaching</h3>
+<div class="outline-text-3" id="text-orgd632e16">
 </div>
-<div id="outline-container-orgf4a99ed" class="outline-4">
-<h4 id="orgf4a99ed">University of Virginia</h4>
-<div class="outline-text-4" id="text-orgf4a99ed">
+<div id="outline-container-org79666a3" class="outline-4">
+<h4 id="org79666a3">University of Virginia</h4>
+<div class="outline-text-4" id="text-org79666a3">
 <dl class="org-dl">
 <dt>Spring 2021</dt><dd>Instructor of record for an uncoordinated section of Math 1140 &#x2014; Financial Mathematics</dd>
 <dt>Fall 2019</dt><dd>Instructor of record for an uncoordinated section of Math 1140 &#x2014; Financial Mathematics</dd>
@@ -403,18 +222,18 @@ Ordinary Differential Equations</dd>
 </dl>
 </div>
 </div>
-<div id="outline-container-org61d2256" class="outline-4">
-<h4 id="org61d2256">University of Mary Washington</h4>
-<div class="outline-text-4" id="text-org61d2256">
+<div id="outline-container-org22d3aa8" class="outline-4">
+<h4 id="org22d3aa8">University of Mary Washington</h4>
+<div class="outline-text-4" id="text-org22d3aa8">
 <dl class="org-dl">
 <dt>Spring 2016</dt><dd>Teaching Assistant for Math 201 &#x2014; Introduction to Discrete Mathematics</dd>
 </dl>
 </div>
 </div>
 </div>
-<div id="outline-container-org1d985db" class="outline-3">
-<h3 id="org1d985db">This Website</h3>
-<div class="outline-text-3" id="text-org1d985db">
+<div id="outline-container-org4b28bac" class="outline-3">
+<h3 id="org4b28bac">This Website</h3>
+<div class="outline-text-3" id="text-org4b28bac">
 <p>
 You can view the source of this website <a href="https://github.com/cjl8zf/cjl8zf.github.io">here</a>. It is written in the
 org mark-up language inside of the Emacs text editor (which I live in).
