@@ -23,8 +23,6 @@
    dissertation is titled [[https://doi.org/10.18130/3h64-wv15][Applications of Chromatic Fixed Point
    Theory.]]
    
-   My CV may be downloaded [[file:chris_lloyd_cv.pdf][here]].
-   
    Before coming to the University of Virginia I received my B.S. in
    mathematics with a minor in computer science at the University of Mary
    Washington, where I was mentored by
