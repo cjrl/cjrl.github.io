@@ -21,3 +21,9 @@ jobs:
     - name: Convert index.org to HTML
       run: |
         pandoc index.org -o index.html
+
+    - name: Save HTML as artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: html-artifact
+        path: index.html
