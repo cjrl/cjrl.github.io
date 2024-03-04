@@ -22,7 +22,7 @@ jobs:
       run: |
         pandoc index.org -o index.html
         tar -cvf artifact.tar index.html
-        gzip -cvf artifact.tar 
+        gzip -v artifact.tar 
 
     - name: Save HTML as artifact
       uses: actions/upload-pages-artifact@v3
