@@ -21,7 +21,7 @@ jobs:
     - name: Convert index.org to HTML
       run: |
         pandoc index.org -o index.html
-        tar -czvf artifact.tar index.html
+        tar -cvf artifact.tar index.html
         gzip -cvf artifact.tar 
 
     - name: Save HTML as artifact
