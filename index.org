@@ -23,8 +23,6 @@
    dissertation is titled [[https://doi.org/10.18130/3h64-wv15][Applications of Chromatic Fixed Point
    Theory.]]
    
-   My CV may be downloaded [[file:chris_lloyd_cv.pdf][here]].
-   
    Before coming to the University of Virginia I received my B.S. in
    mathematics with a minor in computer science at the University of Mary
    Washington, where I was mentored by
@@ -50,6 +48,7 @@
    <iframe width="640" height="385" src="https://www.youtube.com/embed/yXYueCOpgd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
 #+END_EXPORT
 ** Recent Talks
+   - 06/08/2023 - [[https://arc.aiaa.org/doi/abs/10.2514/6.2023-4213][AIAA Operationalizing Machine Learning Models for Strategic Planning]]
    - 08/09/2021 - [[https://folk.ntnu.no/drewkh/conf.html][Transchromatic homotopy online conference]]
    - 01/05/2021 - [[https://www.math.northwestern.edu/events/seminars/?group=ToSe][Chicago-Northwestern Topology Seminar]]
    - 12/04/2020 - [[https://math.virginia.edu/seminars/gradsem/][UVA Graduate Seminar]] --- Version controlling your
@@ -59,6 +58,12 @@
    - 10/19/2020 - [[https://math.jhu.edu/~vzakhar2/topology-seminar/][Johns Hopkins Topology Seminar]]
    - 09/24/2020 - [[https://math.virginia.edu/seminars/topology/][University of Virginia Topology Seminar]]
 ** Engagement 
+*** Career Panels
+   - 03/01/2024 - UVA Graduate Seminar - Transitioning from Academia to Industry
+   - 06/29/2023 - Jepson Summer Science - Academia and Industry Panel
+   - 03/20/2019 - UMW Math Department Career Night - Applying to Math
+     Grad School
+
 *** Directed Reading Program
     Starting in Fall 2018 I have worked closely with [[https://sites.google.com/view/sara-maloni][Professor Sara Maloni]]
     to organize the University of Virginia chapter of the [[https://math.virginia.edu/drp/][Directed
