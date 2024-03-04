@@ -21,7 +21,7 @@ jobs:
     - name: Convert index.org to HTML
       run: |
         mkdir artifact
-        pandoc index.org -o artifact/index.html
+        pandoc index.org -s -o artifact/index.html
 
     - name: Save HTML as artifact
       uses: actions/upload-pages-artifact@v3
