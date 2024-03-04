@@ -23,7 +23,7 @@ jobs:
         pandoc index.org -o index.html
 
     - name: Save HTML as artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-pages-artifact@v4
       with:
         name: github-pages
         path: index.html
