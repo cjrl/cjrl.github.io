@@ -24,7 +24,7 @@ jobs:
         pandoc index.org -o artifact/index.html
 
     - name: Save HTML as artifact
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v4
       with:
         name: github-pages
         file: artifact.tar.gz
