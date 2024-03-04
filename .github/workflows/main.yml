@@ -20,15 +20,15 @@ jobs:
 
     - name: Convert index.org to HTML
       run: |
-        pandoc index.org -o index.html
-        tar -czvf artifact.tar.gz index.html
-        ls -la
+        mkdir artifact
+        pandoc index.org -o artifact/index.html
 
     - name: Save HTML as artifact
       uses: actions/upload-pages-artifact@v3
       with:
         name: github-pages
-        path: artifact.tar.gz
+        file: artifact.tar.gz
+        path: artifact
 
   deploy:
     needs: build
