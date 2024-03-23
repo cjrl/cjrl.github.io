@@ -25,7 +25,7 @@
    Before coming to the University of Virginia I received my B.S. in
    mathematics with a minor in computer science at the University of Mary
    Washington, where I was mentored by
-   [[https://doctorh.umwblogs.org/about/][Professor Randall D. Helmstutler]] and
+   [[https://doctorh.umwsites.net/about/][Professor Randall D. Helmstutler]] and
    [[http://marshallandrew.net/#home][Professor Andrew Marshall]].
    
    Outside of mathematics, I enjoy the outdoors, and programming.  
