@@ -36,12 +36,8 @@
    - Github: https://github.com/cjl8zf 
      
 ** Papers 
-   - [[https://arxiv.org/abs/2008.00330][N. J. Kuhn and
-     C. J. R. Lloyd, Chromatic fixed point theory and the balmer
-     spectrum for extraspecial 2-groups, American Journal of Mathematics, to appear.]]
-   - [[https://arxiv.org/abs/2111.08812][N. J. Kuhn and
-     C. J. R. Lloyd, Computing the Morava K-theory of real
-     Grassmanians using chromatic fixed point theory, Algebraic and Geometric Topology, to appear.]]
+   - Kuhn, Nicholas J., and Christopher J. R. Lloyd. "Chromatic fixed point theory and the Balmer spectrum for extraspecial 2-groups." /*American Journal of Mathematics*/ 146, no. 3 (2024): 769-812.  [[https://doi.org/10.1353/ajm.2024.a928325][https://doi.org/10.1353/ajm.2024.a928325]]. [[https://arxiv.org/abs/2008.00330][arXiv]].
+   - Kuhn, Nicholas J., and Christopher JR Lloyd. "Computing the Morava K–theory of real Grassmannians using chromatic fixed point theory." /*Algebraic & Geometric Topology*/ 24, no. 2 (2024): 919-950. [[https://doi.org/10.2140/agt.2024.24.919][https://doi.org/10.2140/agt.2024.24.919]]. [[https://msp.org/agt/2024/24-2/agt-v24-n2-p07-s.pdf][Open access]].
 ** Ten Minute Research Summary
 #+BEGIN_EXPORT html
    <iframe width="640" height="385" src="https://www.youtube.com/embed/yXYueCOpgd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
