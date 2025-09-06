@@ -21,7 +21,7 @@ jobs:
       run: |
         mkdir artifact
         emacs index.org --batch \
-          --eval '(setq org-safe-remote-resources (list "https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup"))' \
+          --eval '(setq org-safe-remote-resources (list "\\`https://fniessen.github.io/org-html-themes/.*\\'"))' \
           -f org-html-export-to-html
         mv index.html artifact/index.html
 
