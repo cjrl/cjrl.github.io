@@ -1,0 +1,49 @@
+name: Generate HTML from index.org
+
+on:
+  push:
+    branches:
+      - "*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install Emacs
+      run: |
+        sudo apt-get install -y emacs
+
+    - name: Convert index.org to HTML
+      run: |
+        mkdir artifact
+        emacs index.org --batch -f org-html-export-to-html
+        mv index.html artifact/index.html
+
+    - name: Save HTML as artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        name: github-pages
+        file: artifact.tar.gz
+        path: artifact
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/master'
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with: 
+          artifact_name: github-pages
+      
