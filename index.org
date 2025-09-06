@@ -8,7 +8,7 @@
 
 * Christopher J.R. Lloyd's Homepage
   #+ATTR_HTML: :width 50% :height 50%        
-  [[cjrl.jpg]]
+  [[https://raw.githubusercontent.com/cjrl/cjrl.github.io/refs/heads/new-photo/cjrl.jpg]]
   
 ** About Me
 
