@@ -20,7 +20,9 @@ jobs:
     - name: Convert index.org to HTML
       run: |
         mkdir artifact
-        emacs index.org --batch -f org-html-export-to-html
+        emacs index.org --batch \
+          --eval '(setq org-safe-remote-resources (list "https://raw.githubusercontent.com/fniessen/org-html-themes/master/org/theme-readtheorg.setup"))' \
+          -f org-html-export-to-html
         mv index.html artifact/index.html
 
     - name: Save HTML as artifact
