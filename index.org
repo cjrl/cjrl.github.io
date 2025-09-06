@@ -8,7 +8,7 @@
 
 * Christopher J.R. Lloyd's Homepage
   #+ATTR_HTML: :width 50% :height 50%        
-  [[https://math.virginia.edu/img/people/2019-fall/Lloyd.jpg]]
+  [[cjrl.jpg]]
   
 ** About Me
 
