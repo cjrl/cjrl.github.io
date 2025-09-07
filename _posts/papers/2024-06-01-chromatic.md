@@ -11,6 +11,7 @@ published: true
 journal: American Journal of Mathematics
 show-date: true
 doi: https://doi.org/10.1353/ajm.2024.a928325
+main-link: https://doi.org/10.1353/ajm.2024.a928325
 ---
 
 

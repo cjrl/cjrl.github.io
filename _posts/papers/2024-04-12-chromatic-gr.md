@@ -11,7 +11,7 @@ published: true
 journal: Algebraic & Geometric Topology
 show-date: true
 doi: https://doi.org/10.2140/agt.2024.24.919
-open-accses: https://msp.org/agt/2024/24-2/agt-v24-n2-p07-s.pdf
+main-link: https://msp.org/agt/2024/24-2/agt-v24-n2-p07-s.pdf
 ---
 
 We study K(n)*(Gr(d,m)) for all n - the 2-local Morava K-theories of the real Grassmanian Gr(d,m) of d-planes in R^m, about which very little has been previously computed. We conjecture that the Atiyah-Hirzebruch Spectral Sequences computing these all collapse after the first possible non-zero differential, and give much evidence that this is the case. Computational patterns for all n seem similar to the known calculation of H*(Gr(d,m);Q), the n=0 case.

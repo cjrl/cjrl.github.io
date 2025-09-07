@@ -200,7 +200,7 @@
       <li class="timeline-item">
         <div class="timeline-content">
           <h3>
-            <a href="{{site.url}}{{post.url}}">{{post.title}}</a>
+            <a href="{{post.main-link}}">{{post.title}}</a>
           </h3>
           
           <small>
@@ -328,7 +328,7 @@
       <li class="timeline-item">
         <div class="timeline-content">
           <h3>
-            <a href="{{site.url}}{{post.url}}">{{post.title}}</a>
+            <a href="{{post.main-link}}">{{post.title}}</a>
           </h3>
           
           <small>
