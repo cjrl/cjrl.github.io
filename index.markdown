@@ -6,28 +6,12 @@
 
 # About Me
 
-   I am a Mathematician at the [Federal Aviation Administration](https://www.faa.gov/) in the Office of Performance Analysis
-   inside of  Air Traffic Operations (ATO) working directly with the
-   Operations at the Air Traffic Control System Command Center to improve the efficiency of the National
-   Airspace System.  
+I am a Mathematician at the [Federal Aviation Administration](https://www.faa.gov/) (FAA), where I develop mathematical and computational solutions to optimize the efficiency and predictability of national airspace operations. I design high-performance algorithms and machine learning systems that operate on large-scale, near-real-time flight data, enabling system-wide performance monitoring across the United States airspace.  
 
-   This involves combining advanced mathematics, statistical modeling, and large-scale data analysis with modern computational tooling to enhance performance and 
-   predictability of the world's most complicated airspace system.
+My work combines predictive modeling, statistical inference, geospatial analysis, and distributed computation. I have built scalable algorithms and data pipelines capable of processing millions of flight trajectories, leveraging high-performance computing environments to deliver actionable insights for air traffic operations.  
 
-   I graduated with my Mathematics Ph.D. from the University of Virginia
-   in Spring 2021. There, I studied homotopy theory under the
-   direction of [Professor Nicholas Kuhn](https://uva.theopenscholar.com/nick-kuhn). In particular, my research
-   concerned the structure of the equivariant stable homotopy Balmer
-   spectrum and its applications to non-equivariant settings. My
-   dissertation is titled [Applications of Chromatic Fixed Point
-   Theory](https://doi.org/10.18130/3h64-wv15).
-   
-   Before coming to the University of Virginia I received my B.S. in
-   mathematics with a minor in computer science at the University of Mary
-   Washington, where I was mentored by
-   [Professor Randall D. Helmstutler](https://doctorh.umwsites.net/about/) and
-   [Professor Andrew Marshall](http://marshallandrew.net/#home).
-   
+I received my Ph.D. in Mathematics from the University of Virginia in 2021, where I specialized in algebraic topology under [Professor Nicholas Kuhn](https://uva.theopenscholar.com/nick-kuhn). My dissertation, [Applications of Chromatic Fixed Point Theory](https://doi.org/10.18130/3h64-wv15), involved designing algorithms for high-performance computing clusters to solve complex abstract problems in algebraic topology. 
+
 # Talks
 
 <style>
