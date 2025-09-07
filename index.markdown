@@ -6,11 +6,11 @@
 
 # About Me
 
-I am a Mathematician at the [Federal Aviation Administration](https://www.faa.gov/) (FAA), where I develop mathematical and computational solutions to optimize the efficiency and predictability of national airspace operations. I design high-performance algorithms and machine learning systems that operate on large-scale, near-real-time flight data, enabling system-wide performance monitoring across the United States airspace.  
+I am a Mathematician at the [Federal Aviation Administration](https://www.faa.gov/) (FAA), where I work to improve the efficiency and predictability of the National Airspace System. I design high-performance algorithms and machine learning systems that operate on large-scale, near-real-time flight data, enabling system-wide performance monitoring across the system.  
 
-My work combines predictive modeling, statistical inference, geospatial analysis, and distributed computation. I have built scalable algorithms and data pipelines capable of processing millions of flight trajectories, leveraging high-performance computing environments to deliver actionable insights for air traffic operations.  
+My work combines predictive modeling, statistical inference, geospatial analysis, and distributed computation. I have built scalable algorithms and data pipelines capable of processing millions of flight trajectories, leveraging high-performance computing environments to deliver actionable insights for Air Traffic Operations.  
 
-I received my Ph.D. in Mathematics from the University of Virginia in 2021, where I specialized in algebraic topology under [Professor Nicholas Kuhn](https://uva.theopenscholar.com/nick-kuhn). My dissertation, [Applications of Chromatic Fixed Point Theory](https://doi.org/10.18130/3h64-wv15), involved designing algorithms for high-performance computing clusters to solve complex abstract problems in algebraic topology. 
+I received my Ph.D. in Mathematics from the University of Virginia in 2021, where I specialized in algebraic topology under [Professor Nicholas Kuhn](https://uva.theopenscholar.com/nick-kuhn). My dissertation, [Applications of Chromatic Fixed Point Theory](https://doi.org/10.18130/3h64-wv15), involved designing algorithms for high-performance computing clusters to help solve complex abstract problems in algebraic topology. 
 
 # Talks
 
