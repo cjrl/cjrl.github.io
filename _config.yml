@@ -6,8 +6,6 @@ email: mailto:cjl8zf@virginia.edu
 linkedin: https://www.linkedin.com/in/christopher-jr-lloyd
 googlescholar: https://scholar.google.com/citations?hl=en&user=pKszA-kAAAAJ
 orcid: https://orcid.org/0000-0002-8778-8325
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: pages-themes/minimal@v0.2.0
 is_user_page: true 
 
